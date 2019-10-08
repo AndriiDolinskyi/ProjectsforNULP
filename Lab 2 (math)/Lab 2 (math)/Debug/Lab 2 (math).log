@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(13,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(29,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(37,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(53,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(57,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(59,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Lab 2 (math)\Lab 2 (math)\Source.cpp(79,13): warning C4244:  '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Lab 2 (math).vcxproj -> C:\Users\Admin\source\repos\Lab 2 (math)\Debug\Lab 2 (math).exe
